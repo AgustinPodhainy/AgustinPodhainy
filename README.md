@@ -39,5 +39,9 @@
 🔗 **[Check out my portfolio!](#https://github.com/AgustinPodhainy/UTN-FRBA-Academic-Projects)**  
 
 ## 📬 Let’s Connect!  
-[![LinkedIn](https://www.linkedin.com/in/agustin-podhainy/)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/agustin-podhainy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
