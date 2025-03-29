@@ -36,7 +36,7 @@
 🔍 My portfolio showcases everything from front-end interfaces to scalable backend systems.  
 💡 Always looking for new challenges and collaborative opportunities!  
 
-🔗 **[Check out my portfolio!](#https://github.com/AgustinPodhainy/UTN-FRBA-Academic-Projects)**  
+🔗 **[Check out my portfolio!](https://github.com/AgustinPodhainy/UTN-FRBA-Academic-Projects)**
 
 ## 📬 Let’s Connect!  
 <p align="left">
